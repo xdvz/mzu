@@ -1,0 +1,26 @@
+@media screen and (max-width: 1920px) {
+    .container {
+        padding-right: 150px;
+        padding-left: 150px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media screen and (max-width: 1480px) {
+    .container {
+        padding-right: 100px;
+        padding-left: 100px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
